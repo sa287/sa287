@@ -3,6 +3,7 @@
 
   My GitHub profile will mainly contain projects from my degree (including my dissertation), so you can expect to see repos containing the following languages or 
   projects:
+  
     - Java (object-orientated examples, advanced data structures and algorithms, interfaces etc.)
     - Python including data modeling and machine learning (Pandas, NumPy, Scikit).
     - OCaml 
